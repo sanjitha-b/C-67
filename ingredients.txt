@@ -5,3 +5,4 @@ An egg
 Vanilla extract
 Salt, baking soda
 flour
+(optional) chocolate
